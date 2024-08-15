@@ -52,7 +52,7 @@ a {
   display: inline-block;
   text-decoration: none;
   background-color: transparent;
-  color: #000000;
+  color: #FFFFFF;
   transition: background 0.35s, border 0.35s, opacity 0.35s;
 }
 a:hover {
